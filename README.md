@@ -30,3 +30,7 @@ streamlit run app.py
 ```
 
 3. Abre tu navegador y visita la dirección que aparece en la terminal (generalmente http://localhost:8501)
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.220.25.197:8501
+  External URL: http://44.227.217.144:8501
